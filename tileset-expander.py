@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-_VERSION: str = "Tileset Expander 0.0"
+_VERSION: str = "Tileset Expander 1.0"
 
 import sys
 import os
